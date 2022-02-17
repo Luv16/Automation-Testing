@@ -17,6 +17,7 @@ public class Basics_TestNG {
 		  public void add_testing() {
 			  System.out.println("Please see below:");
 			  System.out.println("Say hii!!!!");
+			  System.out.println("Say hello!!");
 			
 		  }
 		  @Test(groups= {"Smoke"})
