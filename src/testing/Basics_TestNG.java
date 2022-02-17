@@ -16,6 +16,7 @@ public class Basics_TestNG {
 		  @BeforeMethod
 		  public void add_testing() {
 			  System.out.println("Please see below:");
+			  System.out.println("Say hii!!!!");
 			
 		  }
 		  @Test(groups= {"Smoke"})
